@@ -43,3 +43,7 @@ To get results with classifier uncomment the 2nd cell in 'Training a transformer
 Else keep it commented.
 
 Run all the cells to get results
+
+## Our Models
+
+To get access to our presaved finetuned model, request access at [drive link]()
